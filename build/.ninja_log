@@ -1,0 +1,7 @@
+# ninja log v6
+2	831	1753789482860978316	src/server/CMakeFiles/ChatServer.dir/main.cpp.o	79e1295172857858
+831	1286	1753789483689946155	src/server/CMakeFiles/ChatServer.dir/usermodel.cpp.o	6f0737f1e756a568
+1287	1755	1753789484145033127	src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o	9cc57e537bcafbbd
+2	2422	1753789482860690677	src/server/CMakeFiles/ChatServer.dir/chatservice.cpp.o	b357dcf219343438
+1	2501	1753789482858978230	src/server/CMakeFiles/ChatServer.dir/chatserver.cpp.o	bc76c3fea2b0ba53
+2501	2653	1753789485359084968	/home/sunyukai/chat/bin/ChatServer	960efc41d6f48fb

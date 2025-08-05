@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/server.dir/link.d CMakeFiles/server.dir/muduo_server.cpp.o -o /home/sunyukai/文档/testjson/testmuduo/bin/server  -lmuduo_net -lmuduo_base -lpthread

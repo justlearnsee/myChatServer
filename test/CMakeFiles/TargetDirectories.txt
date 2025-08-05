@@ -1,0 +1,5 @@
+/home/sunyukai/chat/testmuduo/CMakeFiles/edit_cache.dir
+/home/sunyukai/chat/testmuduo/CMakeFiles/rebuild_cache.dir
+/home/sunyukai/chat/testmuduo/testmuduo/CMakeFiles/server.dir
+/home/sunyukai/chat/testmuduo/testmuduo/CMakeFiles/edit_cache.dir
+/home/sunyukai/chat/testmuduo/testmuduo/CMakeFiles/rebuild_cache.dir
