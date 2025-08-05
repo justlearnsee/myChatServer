@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/sunyukai/chat/build"
+			"value" : "/home/sunyukai/chat/myChatServer/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -547,7 +547,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sunyukai/chat/build/CMakeFiles/pkgRedirects"
+			"value" : "/home/sunyukai/chat/myChatServer/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -607,7 +607,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/sunyukai/chat"
+			"value" : "/home/sunyukai/chat/myChatServer"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1195,7 +1195,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sunyukai/chat/build"
+			"value" : "/home/sunyukai/chat/myChatServer/build"
 		},
 		{
 			"name" : "chat_IS_TOP_LEVEL",
@@ -1219,7 +1219,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/sunyukai/chat"
+			"value" : "/home/sunyukai/chat/myChatServer"
 		}
 	],
 	"kind" : "cache",

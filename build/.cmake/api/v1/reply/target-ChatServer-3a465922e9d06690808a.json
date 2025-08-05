@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/sunyukai/chat/bin/ChatServer"
+			"path" : "/home/sunyukai/chat/myChatServer/bin/ChatServer"
 		}
 	],
 	"backtrace" : 1,
@@ -90,27 +90,27 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/sunyukai/chat/include"
+					"path" : "/home/sunyukai/chat/myChatServer/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/sunyukai/chat/include/server"
+					"path" : "/home/sunyukai/chat/myChatServer/include/server"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/sunyukai/chat/thirdparty"
+					"path" : "/home/sunyukai/chat/myChatServer/thirdparty"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/sunyukai/chat/include/server/db"
+					"path" : "/home/sunyukai/chat/myChatServer/include/server/db"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/sunyukai/chat/include/server/model"
+					"path" : "/home/sunyukai/chat/myChatServer/include/server/model"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "/home/sunyukai/chat/include/server/redis"
+					"path" : "/home/sunyukai/chat/myChatServer/include/server/redis"
 				}
 			],
 			"language" : "CXX",

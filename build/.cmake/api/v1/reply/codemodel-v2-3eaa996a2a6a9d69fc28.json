@@ -89,14 +89,14 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "ChatClient::@8ca63c80a879d0067daa",
-					"jsonFile" : "target-ChatClient-d36f5ce505ccf0bca47d.json",
+					"jsonFile" : "target-ChatClient-ff0f699a9b009a851b2e.json",
 					"name" : "ChatClient",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "ChatServer::@2804e40980a64c7d7ad1",
-					"jsonFile" : "target-ChatServer-68168ffd4d2cc2c88ca9.json",
+					"jsonFile" : "target-ChatServer-3a465922e9d06690808a.json",
 					"name" : "ChatServer",
 					"projectIndex" : 0
 				}
@@ -106,8 +106,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/sunyukai/chat/build",
-		"source" : "/home/sunyukai/chat"
+		"build" : "/home/sunyukai/chat/myChatServer/build",
+		"source" : "/home/sunyukai/chat/myChatServer"
 	},
 	"version" : 
 	{
